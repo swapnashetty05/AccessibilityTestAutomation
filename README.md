@@ -1,4 +1,4 @@
-This project consists of Example of Accesibility testing with AXE. Please follow below steps to successfully run the Automation suite. 
+This project consists of Example of Accesibility testing with AXE(Java, Selenium and TestNG). Please follow below steps to successfully run the Automation suite. 
 
 
 Steps:
